@@ -1,4 +1,6 @@
-# Fast and Accurate Electron Microscopy Image Registration with 3D Convolution
+# Fast and Accurate EM Image Registration
+
+**Fast and Accurate Electron Microscopy Image Registration with 3D Convolution**
 
 Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2019, Oral Presentation
 
