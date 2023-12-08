@@ -30,7 +30,7 @@ The packages and their corresponding version we used in this repository are list
 
 ## Note
 
-Considering that the code in the repo relies on Tensorflow and is relatively old, we highly recommend that you follow our latest EM registration work [Electron Microscopy Image Registration Using Correlation Volume (ISBI 2023)](https://ieeexplore.ieee.org/abstract/document/10230498) and the [source code](https://github.com/llliuxz/EMReg).
+Considering that the code in the repo relies on Tensorflow and is relatively old, we highly recommend that you follow our latest EM registration work [Electron Microscopy Image Registration Using Correlation Volume (ISBI 2023)](https://ieeexplore.ieee.org/abstract/document/10230498) along with the [source code](https://github.com/llliuxz/EMReg).
 
 Please be free to contact us by e-mail (slzhou96@mail.ustc.edu.cn) or WeChat (slzhou96) if you have any questions.
 
